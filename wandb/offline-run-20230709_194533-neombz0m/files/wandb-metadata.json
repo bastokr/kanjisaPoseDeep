@@ -1,0 +1,125 @@
+{
+    "os": "Linux-5.15.0-76-generic-x86_64-with-glibc2.31",
+    "python": "3.11.3",
+    "heartbeatAt": "2023-07-09T10:45:33.311965",
+    "startedAt": "2023-07-09T10:45:33.209255",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/skpark/git/pose-detection-keypoints-estimation-yolov8/animal_skeleton_train.py",
+    "codePath": "animal_skeleton_train.py",
+    "git": {
+        "remote": "https://github.com/computervisioneng/pose-detection-keypoints-estimation-yolov8.git",
+        "commit": "b5aee3e33317903c7be224a7ed3dfa54ac27006a"
+    },
+    "email": null,
+    "root": "/home/skpark/git/pose-detection-keypoints-estimation-yolov8",
+    "host": "skpark-MS-7C80",
+    "username": "skpark",
+    "executable": "/home/skpark/.conda/envs/mmlab/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2.973874999999999,
+        "min": 800.0,
+        "max": 4800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 4.082,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2.9,
+            "min": 800.0,
+            "max": 4800.0
+        }
+    ],
+    "disk": {
+        "total": 457.46939849853516,
+        "used": 140.82315063476562
+    },
+    "gpu": "NVIDIA GeForce RTX 3080",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080",
+            "memory_total": 10737418240
+        }
+    ],
+    "memory": {
+        "total": 62.71028518676758
+    }
+}
